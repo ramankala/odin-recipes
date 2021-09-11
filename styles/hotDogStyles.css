@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(1, 61, 226)
+}
+h1{
+    color: rgb(7, 243, 144);
+    text-align: center;
+    font-family: Tahoma, Geneva;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    color: rgb(163, 4, 255);
+    text-align: center;
+    font-family:Cochin, Georgia;
+}
+p,ul,ol{
+    color: rgb(255, 251, 4);
+    text-align:center;
+    font-family:Verdana;
+    font-size: 18px;
+}
+
+
+
